@@ -1,7 +1,7 @@
 # Excel-HR-Dashboard-
-📊 Key Analyses Performed
+# 📊 Key Analyses Performed
  
- 1️⃣ Workforce Overview
+# 1️⃣ Workforce Overview
  
    Total number of employees
    
@@ -13,7 +13,7 @@
 
 ➡ Helps understand overall workforce size and cost.
 
-2️⃣ Gender Diversity Analysis (MF Ratio)
+# 2️⃣ Gender Diversity Analysis (MF Ratio)
  
   Male vs Female employee distribution by department
  
@@ -21,7 +21,7 @@
 
 ➡ Supports diversity & inclusion analysis.
 
-3️⃣ Department-wise Salary Analysis
+# 3️⃣ Department-wise Salary Analysis
  
   Total salary cost by department
   
@@ -31,7 +31,7 @@
 
 ➡ Helps in budget planning and cost optimization.
 
-4️⃣ Age Group & Workforce Structure
+# 4️⃣ Age Group & Workforce Structure
   
   Employee distribution by age group across departments
   
@@ -39,7 +39,7 @@
 
 ➡ Useful for succession planning and talent strategy.
 
-5️⃣ Hiring Trend Analysis
+# 5️⃣ Hiring Trend Analysis
  
   Year-wise hiring trends by department
   
@@ -49,7 +49,7 @@
 
 ➡ Supports workforce planning and hiring strategy.
 
-6️⃣ Bonus Analysis
+# 6️⃣ Bonus Analysis
   
   Average Bonus % comparison by department
   
@@ -59,9 +59,10 @@
 
 ➡ Helps evaluate incentive effectiveness and compensation fairness.
 
-7️⃣ Geographic Analysis
+# 7️⃣ Geographic Analysis
   
   Employee distribution by Country and City
   
   Location-based filtering using slicers
+
 ➡ Supports regional workforce and location strategy.
