@@ -2,7 +2,9 @@
 📊 Key Analyses Performed
  
  1️⃣ Workforce Overview
+ 
    Total number of employees
+   
    Total salary paid across the organization
    Average salary per employee
    Department-wise headcount distribution
